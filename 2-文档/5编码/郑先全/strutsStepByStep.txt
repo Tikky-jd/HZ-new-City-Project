@@ -1,0 +1,14 @@
+STRUTS配置步骤
+  1）（必须）配置<strust1.1>的所对应的配置XML：<strust1.1>－》属性
+  2）（可选）配置struts所涉及的tld文件：configure libraries->struts1.1->framework->jsp tag libraries
+  3）（必须）查看并配置struts所对应的具体的xml文件：struts-config.xml...
+  4）（必须）查看并配置web.xml（注意，可以通过<Default WebApp>的属性取消struts1.1再应用更新这个文件）
+
+STRUTS开发步骤：
+1、编写ACTION
+  1）继承BaseAction
+  2）书写调用DAO的代码
+
+2、编写ACTION FORM
+  1）可以通过wizard，在可视化界面中实现
+

@@ -1,0 +1,28 @@
+--1.DB
+--1.1ARCHIVES
+Name	Code	Data Type	Primary	Foreign Key	Mandatory
+文件起始时间	BEGIN_DATE	VARCHAR2(20)	FALSE	FALSE	FALSE
+文件结束时间	END_DATE	VARCHAR2(20)	FALSE	FALSE	FALSE
+归档日期	ARC_DATE	VARCHAR2(20)	FALSE	FALSE	FALSE
+立卷时间	ARCHIVES_FOUND_DATE	VARCHAR2(20)	FALSE	FALSE	FALSE
+--1.2ARCHIVES_FILE
+Name	Code	Data Type	Primary	Foreign Key	Mandatory
+文件日期	FILE_DATE	VARCHAR2(20)	FALSE	FALSE	FALSE
+
+
+--2.SQL XML
+	adc/Archives
+	adc/ArchivesFile
+	arm/ArchOper
+	arm/FileOper
+
+--3.JSP
+	adc/archives_roll_wenshu_input.jsp
+	adc/archives_roll_wenshu_edit.jsp
+	adc/archives_roll_yewu_input.jsp
+	adc/archives_roll_yewu_edit.jsp
+	
+	adc/archives_file_wenshu_input.jsp
+	adc/archives_file_wenshu_edit.jsp
+	adc/archives_file_yewu_input.jsp
+	adc/archives_file_yewu_input.jsp

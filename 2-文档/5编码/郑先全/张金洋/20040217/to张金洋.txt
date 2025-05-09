@@ -1,0 +1,21 @@
+
+ARCHIVES:
+1、把ARCHIVES_FOUND_datetime对应的值，直接用字符型的：如to_date('2003-10-12','YYYY-MM-DD')变成'2003-10-12'即可；
+2、把所有的字段名称中包含DATETIME的替换成DATE,如：ARCHIVES_FOUND_datetime变成ARCHIVES_FOUND_DATE;
+
+
+ARCHIVES_FILE:
+1、把所有的字段名称中包含DATETIME的替换成DATE,如：ARCHIVES_FOUND_datetime变成ARCHIVES_FOUND_DATE;
+2、有部分未能导入，请参考ARCHIVES_FILE_LOG.TXT主要问题表现在：
+   1）FILE_DATE不规范
+	如：2001-08-13;2002-05-27
+   2）ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+	也即档案表没有相应的ARCHIVES_ID
+
+ARCHIVES_PAGE:
+1、把所有的字段名称中包含DATETIME的替换成DATE,如：ARCHIVES_FOUND_datetime变成ARCHIVES_FOUND_DATE;
+2、PAGE_DATE(你们的PAGE_DATETIME)后面应增加“,”；
+3、有部分未能导入，请参考ARCHIVES_PAGE_LOG.TXT，主要问题表现在：
+   1）ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVE3) - 未找到父项关键字
+	说明：可能是ARCHIVES_FILE未能导入导致的问题，也可能是其本身的问题
+	

@@ -1,0 +1,16 @@
+增加“文件起始页号(page_num_from_to)”，步骤如下：
+1、打开HGAM_DB_V1.00.PDM，修订“档案文件表”：
+   文件起止页号	PAGE_NUM_FROM_TO	VARCHAR2(20)	FALSE	FALSE	FALSE
+2、直接修订数据库，增加对应字段：
+   alter table archives_file add PAGE_NUM_FROM_TO varchar2(20);
+3、修订BEAN:ArchivesFile.java:
+   增加属性及其get/set方法
+4、修订ArchivesFile.xml
+   1)修订addArchivesFile、updateArchivesFile、queryArchivesFileByFileID、getReceivedArchivesFiles
+5、修订JSP:
+   adc/archives_file_yewu_input.jsp
+   adc/archives_file_yewu_edit.jsp
+   adc/archives_file_wenshu_input.jsp
+   adc/archives_file_wenshu_edit.jsp
+   aum/archives_file_wenshu_info.jsp
+   aum/archives_file_wenshu_info.jsp

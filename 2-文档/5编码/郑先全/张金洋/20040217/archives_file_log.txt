@@ -1,0 +1,12626 @@
+Connected to Oracle9i Enterprise Edition Release 9.0.1.1.1 
+Connected as hgam
+
+SQL> @'D:\PROJECTS\杭州市规划局档案综合管理系统\1.00\文档类\5.编码\郑先全\张金洋\20040217\file.txt';
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15020,null,         1,null,'1119990395',null,     10226,         1,'F',null,'建：32241；；中：11588','建设工程规划许可证申请表','杭州宋都房地产集团有限公司','20030313',null,'1',null,         1,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15021,null,         1,null,'1119990395',null,     10226,         1,'F',null,'预审编号：19990374','建设项目报建预审单','杭州市规划局','19990604',null,'1',null,         2,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15022,null,         1,null,'1119990395',null,     10226,         1,'F',null,'','建设项目定点、规划设计条件申请表','杭州市规划局','',null,'1',null,         3,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15023,null,         1,null,'1119990395',null,     10226,         1,'F',null,'','规划设计方案报审表','杭州市规划局','',null,'1',null,         4,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15024,null,         1,null,'1119990395',null,     10226,         1,'F',null,'（1999）年浙规用证0100373年','建设用地规划许可证','杭州市规划局','19991230',null,'1',null,         5,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15025,null,         1,null,'1119990395',null,     10226,         1,'F',null,'','建设用地规划许可证申请表','杭州市规划局','',null,'1',null,         6,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15026,null,         1,null,'1119990395',null,     10226,         1,'F',null,'','建设项目定位复核报告','杭州市规划局','20030423',null,'1',null,         7,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15027,null,         1,null,'1119990395',null,     10226,         1,'F',null,'C2002-0350','采荷东区二期试定位计算','杭州市勘测设计研究院','20030416',null,'1',null,         8,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15028,null,         1,null,'1119990395',null,     10226,         1,'F',null,'杭计投资[2002]988号','关于采荷东区二期商品房开发建设计划的批复','杭州市发展计划委员会','20021128',null,'1',null,         9,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15029,null,         1,null,'1119990395',null,     10226,         1,'F',null,'杭计投资[1999]146号附件','杭州市一九九九年房地产开发建设计划及销售计划','杭州市发展计划委员会','[19990300]',null,'1',null,        10,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       15030,null,         1,null,'1119990395',null,     10226,         1,'F',null,'','关于原四季青中学用地的函告','杭州市江干区人民政府','19990728',null,'1',null,        11,null,         0,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-02291: 违反完整约束条件 (HGAM.FK_ARCHIVES_REFERENCE_ARCHIVES) - 未找到父项关键字
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       16267,null,         1,null,'1120021542',null,     10278,         1,'F',null,'','总平及方案设计红线图原始发放件;用地方案设计红线图原始审批件','杭州市规划局','2002-10-24;2002-10-29',null,'1',null,        35,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       17924,null,         3,null,'3120020324',null,     10345,         1,'F',null,'[2002]年浙规用证  0100360号','中华人民共和国建设用地规划许可证','杭州市规划局','2002-06-03;2003-03-03修改',null,'1',null,         4,null,         3,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       17944,null,         1,null,'1120011227',null,     10345,         1,'F',null,'','方案设计红线图原始审批件;用地红线图原始审批件','杭州市规划局','2001-08-13;2002-05-27',null,'1',null,        22,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       18070,null,         1,null,'1120010676',null,     10359,         1,'F',null,'','总平方案设计红线图原始审批件;用地红线图原始审批件','杭州市规划局','2001-05-18;2001-07-23',null,'1',null,        40,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       20139,null,         1,null,'1120020284',null,     10373,         1,'F',null,'','勘设红线图(2号路);用地红线图(2号路)','杭州市规划局','2002-03-07;2002-09-10',null,'1',null,        74,null,         3,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       20140,null,         1,null,'1120020284',null,     10373,         1,'F',null,'','勘设红线图(4号路);用地红线图(4号路)','杭州市规划局','2002-03-07;2002-09-10',null,'1',null,        75,null,         5,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       20141,null,         1,null,'1120020284',null,     10373,         1,'F',null,'','勘设红线图(6号路);用地红线图(6号路)','杭州市规划局','2002-03-07;2002-09-10',null,'1',null,        76,null,         3,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       20143,null,         1,null,'1120020284',null,     10373,         1,'F',null,'','勘设红线图(10号路);用地红线图(10号路)','杭州市规划局','2002-03-07;2002-09-10',null,'1',null,        77,null,         4,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       21477,null,         1,null,'1120011814',null,     10475,         1,'F',null,'','规划设计红线图审批件; 用地红线图审批件','杭州市规划局','2001-10-25; 2001-11-08',null,'1',null,        23,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       21682,null,         1,null,'1120021144',null,     10472,         1,'F',null,'','总平及单体设计红线图原始审批件; 用地红线图原始审批件','杭州市规划局','2002-08-20; 2003-03-13',null,'1',null,        29,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       22067,null,         1,null,'1119990710',null,     10056,         1,'F',null,'','勘设详规方案、用地红线图审批件','杭州市规划局','2000-03-29;2001-12-27',null,'1',null,        19,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       22777,null,         1,null,'1120011834',null,     10461,         1,'F',null,'','用地总平方案红线图原始审批件','杭州市规划局','2001-10-22;2002-06-25',null,'1',null,        29,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       25963,null,         1,null,'1120011227',null,     10345,         1,'F',null,'选址受理号:  1120011227','方案设计红线图原始发放(复印)件','杭州市规划局','2001-09-12;2003-03-03修改',null,'1',null,        21,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       26581,null,         1,null,'1120020679',null,     10562,         1,'F',null,'','总平红线图原始审批件; 用地红线图原始审批件','杭州市规划局','2002-05-24; 2002-08-23',null,'1',null,        31,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       27351,null,         1,null,'1120020472',null,     10378,         1,'F',null,'','总平红线图原始审批件;用地红线图原始审批件','杭州市规划局','2002-04-22;2002-10-08',null,'1',null,        21,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       28326,null,         5,         1,'5120030552',null,     10210,         1,'F',null,'房(江)2002  翻字030号','杭州市私有房屋翻建申请表','','2003-4-7   (2002-8-8)',null,'1',null,         6,null,         3,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       29728,null,         3,         1,'3120020870',null,     10247,         1,'F',null,'用地受理号3120010345','用地红线图原始发放件','杭州市规划局','2001-05-31; 2001-07-23(修)',null,'1',null,        51,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       29748,null,         3,         1,'3120020704',null,     10125,         1,'F',null,'','用地总平方案红线图原始审批件','杭州市规划局','2002-10-09 ; 2002-08-27',null,'1',null,        31,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       31038,null,         1,null,'1120020658',null,     10300,         1,'F',null,'选址受理号: 1120020858','勘设红线图原始发放(复印)件','杭州市规划局','2002-06-24;2002-08-25修改',null,'1',null,        31,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       32099,null,         1,null,'1120022018',null,     10099,         1,'F',null,'','用地红线图审批件;方案红线图审批件','杭州市规划局','2003-01-03 ; 2002-11-15',null,'1',null,        33,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       34204,null,         1,null,'1120020473',null,     10061,         1,'F',null,'','勘设方案、用地红线图审批件','杭州市规划局','2002-04-17;2002-11-29',null,'1',null,        20,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       34576,null,         1,null,'1120000804',null,     10052,         1,'F',null,'[1995]征勘  5220号','勘设方案红线图原始发放(复)件','杭州市规划局','2000-07-20;1995-07-17',null,'1',null,        30,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       34639,null,         1,null,'1120012306',null,     10503,         1,'F',null,'','规划设计红线图原始审批件; 用地红线图原始审批件','杭州市规划局','2001-12-25;  2002-09-03',null,'1',null,        26,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       34698,null,         1,null,'1120012424',null,     10218,         1,'F',null,'','方案红线图原始审批件;用地红线图原始审批件','杭洲市规划局','2002-01-18;2002-10-21',null,'1',null,        33,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       34817,null,         1,null,'1120022017',null,     10045,         1,'F',null,'','总平方案设计红线图原始审批件','杭州市规划局','2002-11-12;2003-02-20',null,'1',null,        23,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       34927,null,         1,null,'1120020234',null,     10235,         1,'F',null,'','方案设计红线图审批件;用地的红线图审批件','杭州市规划局','2002-03-01;2002-03-01;2002-09-28',null,'1',null,        70,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       35297,null,         1,null,'1120000804',null,     10052,         1,'F',null,'','勘设总平用地红线图原始审批件','杭州市规划局','2002-07-20;2002-07-11',null,'1',null,        31,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+insert into ARCHIVES_FILE(  FILE_ID,  EFORM_ID,  PHASE_ID,  UP_PHASE_ID,  ACCEPT_ID,  PARENT_FILE_ID,  ARCHIVES_ID,  SECRET_ID,  PROJ_ID,  PROJ_NAME,  FILE_NUM,  FILE_TITLE,  FILE_DUTY,  FILE_DATE,  FILE_PAGE_AMOUNT,  FILE_TYPE,  FILE_KEYWORDS,  FILE_SEQ,  FILE_STORE_TERM,  FILE_PAGE_SEQ,  FILE_SPEC,  MEDIA_TYPE,  FILE_COUNT,  FILE_GET_DATE,  FILE_GET_FORWARD,  FILE_GET_PERSON,  FILE_TO_UNIT,  FILE_TO_FORWARD,  FILE_TO_CREATEBY,  FILE_TO_SIGNBY,  IS_PRIVATE,  IS_IDENTIFY,  IDENTIFY_RESULT,  IS_BORROW,  IS_DESTROY,  FILE_STATUS,  FILE_PATHNAME,  REMARK )     VALUES(       35300,null,         1,null,'1120020825',null,     10118,         1,'F',null,'选址受理  1120020825','规划设计红线图原始发放件','杭州市规划局','2002-06-26;2002-11-06修改',null,'1',null,        13,null,         1,null,'1',null,null,null,null,null,null,null,null,'0',null,null,'0','0','4',null,null)
+
+ORA-01401: 插入的值对于列过大
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+1 row inserted
+
+SQL> 

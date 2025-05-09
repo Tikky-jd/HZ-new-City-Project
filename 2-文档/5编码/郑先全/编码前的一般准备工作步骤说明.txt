@@ -1,0 +1,29 @@
+目前编码都是通过VSS控制，在本地搭建编码、测试和运行环境的，故需要搭建环境，下面是简要说明：
+
+1、安装配置JAVA编程环境
+   1)安装j2sdk1.4.1_05并配置环境变量
+   2)安装Tomcat 4.1.27并配置环境变量
+
+2、安装ORACLE客户端并配置
+   1)打开文件%oracle%\ora90\network\ADMIN\tnsnames.ora，在后面增加如下设置：
+  HGAM =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = server)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = oradb)
+    )
+  )
+   2)设置环境变量：把%oracle%\ora90\BIN加入到PATH.
+
+3、ORACLE的测试和日常使用
+   1)可通过命令行：TNSPING server
+	如果提示OK，则说明客户端安装良好
+   2)测试连接，可以在命令行中输入：SQLPLUS test/test@hgam
+	如果能够进入，则表示ORACLE配置正确
+   3)日常使用可以采用ORACLE提供的工具SQLPLUS
+	在：\「开始」菜单\程序\%ORACLE%\Oracle - OraHome90\Application Development\SQL Plus
+	登录方式：用户名(HGAM)、口令(SUNHOO)、主机字符串(HGAM)
+
+4、目录结构基本沿用HZNA的结构

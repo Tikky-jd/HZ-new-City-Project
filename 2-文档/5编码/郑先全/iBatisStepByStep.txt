@@ -1,0 +1,15 @@
+1、配置JB
+	配置Lib，注意把所有的JAR文件都包含进来
+
+2、配置iBatis
+  1）配置db.properties:配置数据库连接参数
+  2）配置sql-map-config.xml：配置数据源（datasource）和SQL MAP所有的XML
+  3）配置dao.xml：配置DAO管理器
+
+3、开发步骤
+  1）编写具体SQL MAP的XML文件，如Secret.xml
+  2）编写数据表的结果集映射BEAN（可用bean编辑器配置，注意要序列化），如Secret.java
+  3）编写SQL MAP的DAO实现文件，如SecretSqlMapDao.java
+  4）编写SQL MAP的DAO接口文件，如SecretDao.java
+
+4、与STRUTS的结合，请参考strutsStepByStep.txt
